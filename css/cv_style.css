@@ -1,0 +1,54 @@
+img {
+    height: 20%;
+    width: 20%;
+    float: right;
+  }
+
+  body {
+    padding-left: 100px;
+    padding-top: 70px;
+    padding-right: 100px;
+  }
+
+  .Int h3,
+  .Int p {
+    display: inline;
+  }
+
+  td.td1 .email {
+    text-align: right;
+    padding-right: 50px;
+  }
+
+  a:link {
+    color: blue;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: green;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: hotpink;
+    text-decoration: underline;
+  }
+
+  a:active {
+    color: blue;
+    text-decoration: underline;
+  }
+
+  .tb2 tr th {
+    border: 2px solid black;
+  }
+
+  .tb2 tr td {
+    border: 2px solid black;
+    padding: 10px;
+  }
+
+  .table2 {
+    width: 75%;
+  }
