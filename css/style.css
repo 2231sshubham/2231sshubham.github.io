@@ -88,6 +88,11 @@
   auto 50px;
   font-size: 1.2rem;
 }
+.writing-logo {
+  width: 20%;
+  float: right;
+  margin-left: 20px;
+}
 
 .ml-logo {
   width: 20%;
